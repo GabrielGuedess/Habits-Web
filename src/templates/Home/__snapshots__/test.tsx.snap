@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> should render the Home 1`] = `
+<div
+  class="flex h-screen w-screen items-center justify-center"
+>
+  <div
+    class="flex w-full max-w-5xl flex-col gap-16 px-6"
+  >
+    <div
+      data-testid="Header Mock"
+    />
+    <div
+      data-testid="SummaryTable Mock"
+    />
+  </div>
+</div>
+`;
