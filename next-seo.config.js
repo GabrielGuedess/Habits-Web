@@ -2,9 +2,9 @@ export default {
   openGraph: {
     type: 'website',
     locale: 'pt_BR',
-    url: 'https://github.com/GabrielGuedess/nextjs-boilerplate',
-    site_name: 'Boilerplate NextJs',
-    title: 'Boilerplate para projetos NextJs ⭐🚀',
+    url: 'https://github.com/GabrielGuedess/Habits-Web',
+    site_name: 'Habits',
+    title: 'Habit tracker',
   },
   twitter: {
     handle: '@GabrielRGuedess',
