@@ -1,0 +1,415 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SummaryTable /> should render the SummaryTable 1`] = `
+<section
+  class="flex w-full"
+>
+  <aside
+    class="grid grid-flow-row grid-rows-7 gap-3"
+  >
+    <div
+      data-testid="WeekDay Mock"
+    />
+    <div
+      data-testid="WeekDay Mock"
+    />
+    <div
+      data-testid="WeekDay Mock"
+    />
+    <div
+      data-testid="WeekDay Mock"
+    />
+    <div
+      data-testid="WeekDay Mock"
+    />
+    <div
+      data-testid="WeekDay Mock"
+    />
+    <div
+      data-testid="WeekDay Mock"
+    />
+  </aside>
+  <main
+    class="grid grid-flow-col grid-rows-7 gap-3"
+  >
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+    <div
+      data-testid="HabitDay Mock"
+    />
+  </main>
+</section>
+`;
