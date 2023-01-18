@@ -20,6 +20,7 @@
     "plugin:react/recommended",
     "airbnb",
     "plugin:@typescript-eslint/recommended",
+    "plugin:tailwindcss/recommended",
     "next"
   ],
   "parser": "@typescript-eslint/parser",
@@ -36,7 +37,8 @@
     "prettier",
     "react-hooks",
     "import",
-    "import-helpers"
+    "import-helpers",
+    "tailwindcss"
   ],
   "rules": {
     "prettier/prettier": "error",
@@ -49,6 +51,9 @@
     "import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
     "react-hooks/rules-of-hooks": "error",
     "import/no-anonymous-default-export": "off",
+    "react/require-default-props": "off",
+    "operator-linebreak": "off",
+    "react/no-array-index-key": "off",
     "react-hooks/exhaustive-deps": "warn",
     "@typescript-eslint/explicit-module-boundary-types": "off",
     "implicit-arrow-linebreak": "off",
