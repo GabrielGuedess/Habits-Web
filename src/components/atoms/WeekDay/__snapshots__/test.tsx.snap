@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<WeekDay /> should render the heading 1`] = `
+<div
+  class="flex h-10 w-10 items-center justify-center text-xl font-bold text-zinc-400"
+>
+  D
+</div>
+`;
