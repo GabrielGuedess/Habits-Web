@@ -13,7 +13,7 @@ This project uses lot of stuff as:
 - [Typescript](https://www.typescriptlang.org)
 - [Jest](https://jestjs.io)
 - [Testing-library](https://testing-library.com/docs/react-testing-library/intro)
-- [Tailwind CSS](https://https://tailwindcss.com))
+- [Tailwind CSS](https://https://tailwindcss.com)
 - [Storybook](https://storybook.js.org)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
