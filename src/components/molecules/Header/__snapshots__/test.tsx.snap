@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should render the Header 1`] = `
+<header
+  class="mx-auto flex w-full max-w-3xl items-center justify-between"
+>
+  <img
+    alt="Habits"
+    data-nimg="1"
+    decoding="async"
+    height="71.49"
+    src="/svg/logo.svg"
+    style="color: transparent;"
+    width="147.84"
+  />
+  <div
+    data-testid="Button Mock"
+  />
+</header>
+`;
