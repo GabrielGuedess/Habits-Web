@@ -15,9 +15,9 @@
       "purpose": "any maskable"
     }
   ],
-  "background_color": "#06092B",
-  "description": "Boilerplate utilizando Typescript, React, NextJS e Styled Components!",
+  "background_color": "#09090A",
+  "description": "Habit tracker!",
   "display": "fullscreen",
   "start_url": "/",
-  "theme_color": "#06092B"
+  "theme_color": "#09090A"
 }
