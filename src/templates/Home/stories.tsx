@@ -3,7 +3,7 @@ import { StoryFn, Meta } from '@storybook/react';
 import { Home } from '.';
 
 export default {
-  title: 'Atoms/Home',
+  title: 'Templates/Home',
   component: Home,
 } as Meta;
 
