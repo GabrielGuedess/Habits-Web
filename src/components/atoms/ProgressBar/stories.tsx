@@ -1,10 +1,13 @@
 import { StoryFn, Meta } from '@storybook/react';
 
-import { ProgressBar } from '.';
+import { ProgressBar, ProgressBarProps } from '.';
 
 export default {
   title: 'Atoms/ProgressBar',
   component: ProgressBar,
-} as Meta;
+  args: { progress: 70 },
+} as Meta<ProgressBarProps>;
 
-export const Default: StoryFn = () => <ProgressBar />;
+export const Default: StoryFn<ProgressBarProps> = args => (
+  <ProgressBar {...args} />
+);
