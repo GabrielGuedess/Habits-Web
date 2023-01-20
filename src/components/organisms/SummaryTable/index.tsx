@@ -20,12 +20,16 @@ export const SummaryTable = () => (
 
     <main className="grid grid-flow-col grid-rows-7 gap-3">
       {summaryDates.map(date => (
-        <HabitDay key={date.toString()} />
+        <HabitDay
+          key={date.toString()}
+          amount={5}
+          completed={Math.round(Math.random() * 5)}
+        />
       ))}
 
       {amountOfDaysToFill > 0 &&
         Array.from({ length: amountOfDaysToFill }).map((_, index) => (
-          <HabitDay key={index} state="disabled" />
+          <HabitDay amount={2} completed={0} key={index} state="disabled" />
         ))}
     </main>
   </section>

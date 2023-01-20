@@ -2,7 +2,11 @@
 
 exports[`<Button /> should render the Button 1`] = `
 <button
+  aria-controls="radix-:r0:"
+  aria-expanded="false"
+  aria-haspopup="dialog"
   class="group flex items-center gap-3 rounded-lg border border-violet-500 px-6 py-4 font-semibold transition-all hover:border-violet-300"
+  data-state="closed"
   type="button"
 >
   <svg

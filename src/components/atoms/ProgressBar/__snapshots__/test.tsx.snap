@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProgressBar /> should render the ProgressBar 1`] = `
+<div
+  class="mt-4 h-3 w-full rounded-xl bg-zinc-700 "
+>
+  <div
+    aria-label="Progresso de hábitos"
+    aria-valuenow="70"
+    class="h-3 rounded-xl bg-violet-600"
+    role="progressbar"
+    style="width: 70%;"
+  />
+</div>
+`;
