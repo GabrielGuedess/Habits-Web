@@ -43,9 +43,11 @@
   "rules": {
     "prettier/prettier": "error",
     "space-before-function-paren": "off",
+    "no-useless-return": "off",
     "arrow-parens": "off",
     "object-curly-newline": "off",
     "jsx-a11y/no-autofocus": "off",
+    "function-paren-newline": "off",
     "jsx-a11y/label-has-associated-control": "off",
     "react/prop-types": "off",
     "react/jsx-one-expression-per-line": "off",

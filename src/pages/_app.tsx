@@ -1,4 +1,5 @@
 import 'tailwindcss/tailwind.css';
+import 'lib/dayjs';
 
 import { DefaultSeo } from 'next-seo';
 import { AppProps } from 'next/app';
