@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<NewHabitForm /> should render the heading 1`] = `
+exports[`<NewHabitForm /> should render the NewHabitForm 1`] = `
 <form
   class="mt-6 flex w-full flex-col"
 >
@@ -22,6 +22,178 @@ exports[`<NewHabitForm /> should render the heading 1`] = `
   >
     Qual a recorrência?
   </label>
+  <div
+    class="mt-3 flex flex-col gap-2"
+  >
+    <button
+      aria-checked="false"
+      class="group flex items-center gap-3"
+      data-state="unchecked"
+      role="checkbox"
+      type="button"
+      value="on"
+    >
+      <div
+        class="flex h-8 w-8 items-center justify-center rounded-lg border-2 border-zinc-800 bg-zinc-900 group-data-[state=checked]:border-green-500 group-data-[state=checked]:bg-green-500"
+      />
+      <span
+        class="leading-tight text-white"
+      >
+        Domingo
+      </span>
+    </button>
+    <input
+      aria-hidden="true"
+      style="transform: translateX(-100%); position: absolute; pointer-events: none; opacity: 0; margin: 0px; width: 0px; height: 0px;"
+      tabindex="-1"
+      type="checkbox"
+      value="on"
+    />
+    <button
+      aria-checked="false"
+      class="group flex items-center gap-3"
+      data-state="unchecked"
+      role="checkbox"
+      type="button"
+      value="on"
+    >
+      <div
+        class="flex h-8 w-8 items-center justify-center rounded-lg border-2 border-zinc-800 bg-zinc-900 group-data-[state=checked]:border-green-500 group-data-[state=checked]:bg-green-500"
+      />
+      <span
+        class="leading-tight text-white"
+      >
+        Segunda-feira
+      </span>
+    </button>
+    <input
+      aria-hidden="true"
+      style="transform: translateX(-100%); position: absolute; pointer-events: none; opacity: 0; margin: 0px; width: 0px; height: 0px;"
+      tabindex="-1"
+      type="checkbox"
+      value="on"
+    />
+    <button
+      aria-checked="false"
+      class="group flex items-center gap-3"
+      data-state="unchecked"
+      role="checkbox"
+      type="button"
+      value="on"
+    >
+      <div
+        class="flex h-8 w-8 items-center justify-center rounded-lg border-2 border-zinc-800 bg-zinc-900 group-data-[state=checked]:border-green-500 group-data-[state=checked]:bg-green-500"
+      />
+      <span
+        class="leading-tight text-white"
+      >
+        Terça-feira
+      </span>
+    </button>
+    <input
+      aria-hidden="true"
+      style="transform: translateX(-100%); position: absolute; pointer-events: none; opacity: 0; margin: 0px; width: 0px; height: 0px;"
+      tabindex="-1"
+      type="checkbox"
+      value="on"
+    />
+    <button
+      aria-checked="false"
+      class="group flex items-center gap-3"
+      data-state="unchecked"
+      role="checkbox"
+      type="button"
+      value="on"
+    >
+      <div
+        class="flex h-8 w-8 items-center justify-center rounded-lg border-2 border-zinc-800 bg-zinc-900 group-data-[state=checked]:border-green-500 group-data-[state=checked]:bg-green-500"
+      />
+      <span
+        class="leading-tight text-white"
+      >
+        Quarta-feira
+      </span>
+    </button>
+    <input
+      aria-hidden="true"
+      style="transform: translateX(-100%); position: absolute; pointer-events: none; opacity: 0; margin: 0px; width: 0px; height: 0px;"
+      tabindex="-1"
+      type="checkbox"
+      value="on"
+    />
+    <button
+      aria-checked="false"
+      class="group flex items-center gap-3"
+      data-state="unchecked"
+      role="checkbox"
+      type="button"
+      value="on"
+    >
+      <div
+        class="flex h-8 w-8 items-center justify-center rounded-lg border-2 border-zinc-800 bg-zinc-900 group-data-[state=checked]:border-green-500 group-data-[state=checked]:bg-green-500"
+      />
+      <span
+        class="leading-tight text-white"
+      >
+        Quinta-feira
+      </span>
+    </button>
+    <input
+      aria-hidden="true"
+      style="transform: translateX(-100%); position: absolute; pointer-events: none; opacity: 0; margin: 0px; width: 0px; height: 0px;"
+      tabindex="-1"
+      type="checkbox"
+      value="on"
+    />
+    <button
+      aria-checked="false"
+      class="group flex items-center gap-3"
+      data-state="unchecked"
+      role="checkbox"
+      type="button"
+      value="on"
+    >
+      <div
+        class="flex h-8 w-8 items-center justify-center rounded-lg border-2 border-zinc-800 bg-zinc-900 group-data-[state=checked]:border-green-500 group-data-[state=checked]:bg-green-500"
+      />
+      <span
+        class="leading-tight text-white"
+      >
+        Sexta-feira
+      </span>
+    </button>
+    <input
+      aria-hidden="true"
+      style="transform: translateX(-100%); position: absolute; pointer-events: none; opacity: 0; margin: 0px; width: 0px; height: 0px;"
+      tabindex="-1"
+      type="checkbox"
+      value="on"
+    />
+    <button
+      aria-checked="false"
+      class="group flex items-center gap-3"
+      data-state="unchecked"
+      role="checkbox"
+      type="button"
+      value="on"
+    >
+      <div
+        class="flex h-8 w-8 items-center justify-center rounded-lg border-2 border-zinc-800 bg-zinc-900 group-data-[state=checked]:border-green-500 group-data-[state=checked]:bg-green-500"
+      />
+      <span
+        class="leading-tight text-white"
+      >
+        Sábado
+      </span>
+    </button>
+    <input
+      aria-hidden="true"
+      style="transform: translateX(-100%); position: absolute; pointer-events: none; opacity: 0; margin: 0px; width: 0px; height: 0px;"
+      tabindex="-1"
+      type="checkbox"
+      value="on"
+    />
+  </div>
   <button
     class="mt-6 flex items-center justify-center gap-3 rounded-lg bg-green-600 p-4 font-semibold transition-colors hover:bg-green-500"
     type="submit"
